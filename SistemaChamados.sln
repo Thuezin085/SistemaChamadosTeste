@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaChamados", "SistemaChamados\SistemaChamados.csproj", "{A08E4912-0E5C-4B9A-9C5F-50B918A3549B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaChamados.Tests", "SistemaChamados.Tests\SistemaChamados.Tests.csproj", "{14BBCCCE-E77B-4227-9073-D779C5BC9A86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A08E4912-0E5C-4B9A-9C5F-50B918A3549B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A08E4912-0E5C-4B9A-9C5F-50B918A3549B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A08E4912-0E5C-4B9A-9C5F-50B918A3549B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BBCCCE-E77B-4227-9073-D779C5BC9A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BBCCCE-E77B-4227-9073-D779C5BC9A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BBCCCE-E77B-4227-9073-D779C5BC9A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BBCCCE-E77B-4227-9073-D779C5BC9A86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
